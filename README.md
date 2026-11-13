@@ -1,2 +1,3 @@
 # Kubernetes-Practice
-![Components of Kubernetes](./components-of-kubernetes.svg)
+![Kubernetes](./kubernetes.png)
+![Image 01](./img-01.png)
